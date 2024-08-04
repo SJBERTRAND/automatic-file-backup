@@ -1,0 +1,8 @@
+{
+  "name": "File backup",
+  "description": "Automatic file or folder backup using rsync",
+  "uuid": "automatic-file-backup@SJBERTRAND.github.com",
+  "shell-version": [
+    "46"
+  ]
+}
