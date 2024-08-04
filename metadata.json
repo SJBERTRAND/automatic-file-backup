@@ -1,7 +1,10 @@
 {
-  "name": "File backup",
+  "name": "Automatic File/Folder backup",
   "description": "Automatic file or folder backup using rsync",
+  "gettext-domain": "automatic-file-backup@SJBERTRAND.github.com",
   "uuid": "automatic-file-backup@SJBERTRAND.github.com",
+  "url": "https://github.com/SJBERTRAND/automatic-file-backup",
+  "settings-schema": "org.gnome.shell.extensions.automatic-file-backup@SJBERTRAND.github.com" ,
   "shell-version": [
     "46"
   ]
