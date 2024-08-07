@@ -10,6 +10,12 @@
     <key name="remote-login" type="s">
       <default>""</default>
     </key>
+    <key name="host-path" type="s">
+      <default>""</default>
+    </key>
+    <key name="remote-path" type="s">
+      <default>""</default>
+    </key>
     <key name="remote-password" type="s">
       <default>""</default>
     </key>
